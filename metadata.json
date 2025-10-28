@@ -1,0 +1,7 @@
+{
+  "name": "Goupe1 - Recyclage Intelligent",
+  "description": "Une application web pour trouver des points de collecte de déchets, apprendre à trier et contribuer à un environnement plus propre au Sénégal. Localisez facilement les points de dépôt et les centres de recyclage proches de vous.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
